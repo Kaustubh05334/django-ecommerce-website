@@ -11,8 +11,9 @@ The website has a search function that allows users to find products by keywords
 The website has a responsive design that adapts to different screen sizes and devices.
 
 #Home Page
-![Screenshot 2023-07-28 172605](https://github.com/Kaustubh05334/django-ecommerce-website/assets/78357870/4a161bfe-33e9-4147-ab89-6c849d96e9b2)
 ![Screenshot 2023-07-28 172752](https://github.com/Kaustubh05334/django-ecommerce-website/assets/78357870/21409556-18bd-4db9-9857-50bc2550b10b)
+![Screenshot 2023-07-28 172605](https://github.com/Kaustubh05334/django-ecommerce-website/assets/78357870/4a161bfe-33e9-4147-ab89-6c849d96e9b2)
+
 
 
 #Product Detail Page
