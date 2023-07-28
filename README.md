@@ -2,13 +2,13 @@
 This is a simple ecommerce website that allows users to browse, search, and purchase products online. The website is built with django, a high-level Python web framework that follows the model-template-view (MTV) architectural pattern. The website uses tailwind, a utility-first CSS framework that provides a set of customizable classes for styling elements and create a responsive design
 
 Features
-    1. The website has a home page that displays the latest and featured products, as well as a navigation bar that links to other pages.
-    1. The website has a product page that shows the details of a selected product, such as the name, price, description, rating, and reviews. Users can also add the product to their cart or wishlist from this page.
-    1. The website has a cart page that shows the items that the user has added to their cart. Users can update the quantity or remove items from their cart, as well as proceed to checkout.
-    1. The website has a checkout page that allows users to enter their shipping and payment information, as well as review their order summary and confirm their purchase.
-    1. The website has a user account page that shows the user’s profile, orders, and wishlist. Users can also edit their profile or change their password from this page.
-    1. The website has a search function that allows users to find products by keywords or categories.
-    1. The website has a responsive design that adapts to different screen sizes and devices.
++ The website has a home page that displays the latest and featured products, as well as a navigation bar that links to other pages.
++ The website has a product page that shows the details of a selected product, such as the name, price, description, rating, and reviews. Users can also add the product to their cart or wishlist from this page.
++ The website has a cart page that shows the items that the user has added to their cart. Users can update the quantity or remove items from their cart, as well as proceed to checkout.
++ The website has a checkout page that allows users to enter their shipping and payment information, as well as review their order summary and confirm their purchase.
++ The website has a user account page that shows the user’s profile, orders, and wishlist. Users can also edit their profile or change their password from this page.
++ The website has a search function that allows users to find products by keywords or categories.
++ The website has a responsive design that adapts to different screen sizes and devices.
 
 ## Home Page
 ![Screenshot 2023-07-28 172752](https://github.com/Kaustubh05334/django-ecommerce-website/assets/78357870/21409556-18bd-4db9-9857-50bc2550b10b)
